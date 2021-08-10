@@ -1,0 +1,22 @@
+<!-- IDEIA PRINCIPAL -->
+
+• Criar um site onde o usuário pode criar uma maneira para gerenciar o estoque de sua loja facilmente
+
+
+<!-- IDEIA -->
+
+• Utilizar HTML e CSS para a criação do site onde o usuário irá baixar o aplicativo em Python
+• Para a criaçãod o aplicativo em Python, o usuário precisa preencher campos no site como, "nome do produto", "quantidade" e "preço"
+• No aplicativo Python o usuário irá dizer quando tal produto foi vendido e este produto será excluido automaticamente da quantidade
+e irá pôr no recebimento quanto o vendedor ganhou
+
+
+<!-- IDEIA EXTRA -->
+
+• Pode ser automatizado o processo do usuário dizer que o produto foi vendido, pode ser automatizado utilizando o leitor de código de 
+barras
+
+
+<!-- COMPLEMENTO -->
+
+• O vendedor poderá a qualquer momento consultar o seu estoque e quanto já ganhou
