@@ -40,7 +40,9 @@ class Tela:
 
 
     def clica(self):
-        print('Olá mundo')
+        self.img_naruto = PhotoImage(file='midia/doce.png')
+        self.img_principal = Label(self.root, image=self.img_naruto)
+        self.img_principal.place(x=30, y=180)
     
     def fechar(self):
         self.root.destroy()

@@ -17,8 +17,8 @@ class Tela:
     def widgets(self):
         ola = Label(
             self.root,
-            text='MEU INSTAGRAM!',
-            font=('times', 30, 'bold'),
+            text='MEU INSTAGRAM',
+            font=('times', 25, 'bold'),
             bg='#2A2A72',
             fg='#FFA400'
             )
