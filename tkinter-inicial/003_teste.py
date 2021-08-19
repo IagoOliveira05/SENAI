@@ -41,9 +41,14 @@ class Tela:
 
 
     def clica(self):
-        self.img_naruto = PhotoImage(file='midia/naruto-300.png')
-        self.img_principal = Label(self.root, image=self.img_naruto)
-        self.img_principal.place(x=2, y=180)
+        texto = Label(
+            self.root,
+            text='Eu amo ester e ana!',
+            font=('times', 25, 'bold'),
+            bg='#2A2A72',
+            fg='#FFA400'
+            )
+        texto.place(x=50, y=250, height=50, width=300)
     
     
     def fechar(self):
